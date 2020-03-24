@@ -3067,9 +3067,9 @@ date	estado	regiao	variavel	quantidade
 2020-03-22	Pernambuco	Nordeste	Descartados	375
 2020-03-22	Pernambuco	Nordeste	Confirmados	37
 2020-03-22	Pernambuco	Nordeste	Mortes	0
-2020-03-22	Piauí	Nordeste	Suspeitos	0
-2020-03-22	Piauí	Nordeste	Descartados	0
-2020-03-22	Piauí	Nordeste	Confirmados	4
+2020-03-22	Piauí	Nordeste	Suspeitos	117
+2020-03-22	Piauí	Nordeste	Descartados	92
+2020-03-22	Piauí	Nordeste	Confirmados	6
 2020-03-22	Piauí	Nordeste	Mortes	0
 2020-03-22	Rio de Janeiro	Sudeste	Suspeitos	0
 2020-03-22	Rio de Janeiro	Sudeste	Descartados	0
@@ -3107,3 +3107,111 @@ date	estado	regiao	variavel	quantidade
 2020-03-22	Tocantins	Norte	Descartados	0
 2020-03-22	Tocantins	Norte	Confirmados	2
 2020-03-22	Tocantins	Norte	Mortes	0
+2020-03-23	Acre	Norte	Suspeitos	199
+2020-03-23	Acre	Norte	Descartados	180
+2020-03-23	Acre	Norte	Confirmados	17
+2020-03-23	Acre	Norte	Mortes	0
+2020-03-23	Alagoas	Nordeste	Suspeitos	120
+2020-03-23	Alagoas	Nordeste	Descartados	64
+2020-03-23	Alagoas	Nordeste	Confirmados	8
+2020-03-23	Alagoas	Nordeste	Mortes	0
+2020-03-23	Amapá	Norte	Suspeitos	77
+2020-03-23	Amapá	Norte	Descartados	70
+2020-03-23	Amapá	Norte	Confirmados	1
+2020-03-23	Amapá	Norte	Mortes	0
+2020-03-23	Amazonas	Norte	Suspeitos	20
+2020-03-23	Amazonas	Norte	Descartados	0
+2020-03-23	Amazonas	Norte	Confirmados	32
+2020-03-23	Amazonas	Norte	Mortes	0
+2020-03-23	Bahia	Nordeste	Suspeitos	0
+2020-03-23	Bahia	Nordeste	Descartados	725
+2020-03-23	Bahia	Nordeste	Confirmados	63
+2020-03-23	Bahia	Nordeste	Mortes	0
+2020-03-23	Ceará	Nordeste	Suspeitos	0
+2020-03-23	Ceará	Nordeste	Descartados	0
+2020-03-23	Ceará	Nordeste	Confirmados	164
+2020-03-23	Ceará	Nordeste	Mortes	0
+2020-03-23	Distrito Federal	Centro-Oeste	Suspeitos	3631
+2020-03-23	Distrito Federal	Centro-Oeste	Descartados	2017
+2020-03-23	Distrito Federal	Centro-Oeste	Confirmados	135
+2020-03-23	Distrito Federal	Centro-Oeste	Mortes	0
+2020-03-23	Espírito Santo	Sudeste	Suspeitos	739
+2020-03-23	Espírito Santo	Sudeste	Descartados	255
+2020-03-23	Espírito Santo	Sudeste	Confirmados	29
+2020-03-23	Espírito Santo	Sudeste	Mortes	0
+2020-03-23	Goiás	Centro-Oeste	Suspeitos	765
+2020-03-23	Goiás	Centro-Oeste	Descartados	170
+2020-03-23	Goiás	Centro-Oeste	Confirmados	23
+2020-03-23	Goiás	Centro-Oeste	Mortes	0
+2020-03-23	Maranhão	Nordeste	Suspeitos	280
+2020-03-23	Maranhão	Nordeste	Descartados	87
+2020-03-23	Maranhão	Nordeste	Confirmados	2
+2020-03-23	Maranhão	Nordeste	Mortes	0
+2020-03-23	Mato Grosso	Centro-Oeste	Suspeitos	210
+2020-03-23	Mato Grosso	Centro-Oeste	Descartados	37
+2020-03-23	Mato Grosso	Centro-Oeste	Confirmados	6
+2020-03-23	Mato Grosso	Centro-Oeste	Mortes	0
+2020-03-23	Mato Grosso do Sul	Centro-Oeste	Suspeitos	70
+2020-03-23	Mato Grosso do Sul	Centro-Oeste	Descartados	198
+2020-03-23	Mato Grosso do Sul	Centro-Oeste	Confirmados	21
+2020-03-23	Mato Grosso do Sul	Centro-Oeste	Mortes	0
+2020-03-23	Minas Gerais	Sudeste	Suspeitos	7766
+2020-03-23	Minas Gerais	Sudeste	Descartados	0
+2020-03-23	Minas Gerais	Sudeste	Confirmados	128
+2020-03-23	Minas Gerais	Sudeste	Mortes	0
+2020-03-23	Pará	Norte	Suspeitos	207
+2020-03-23	Pará	Norte	Descartados	101
+2020-03-23	Pará	Norte	Confirmados	5
+2020-03-23	Pará	Norte	Mortes	0
+2020-03-23	Paraíba	Nordeste	Suspeitos	61
+2020-03-23	Paraíba	Nordeste	Descartados	25
+2020-03-23	Paraíba	Nordeste	Confirmados	2
+2020-03-23	Paraíba	Nordeste	Mortes	0
+2020-03-23	Paraná	Sul	Suspeitos	1519
+2020-03-23	Paraná	Sul	Descartados	159
+2020-03-23	Paraná	Sul	Confirmados	60
+2020-03-23	Paraná	Sul	Mortes	0
+2020-03-23	Pernambuco	Nordeste	Suspeitos	0
+2020-03-23	Pernambuco	Nordeste	Descartados	0
+2020-03-23	Pernambuco	Nordeste	Confirmados	42
+2020-03-23	Pernambuco	Nordeste	Mortes	0
+2020-03-23	Piauí	Nordeste	Suspeitos	148
+2020-03-23	Piauí	Nordeste	Descartados	115
+2020-03-23	Piauí	Nordeste	Confirmados	6
+2020-03-23	Piauí	Nordeste	Mortes	0
+2020-03-23	Rio de Janeiro	Sudeste	Suspeitos	0
+2020-03-23	Rio de Janeiro	Sudeste	Descartados	0
+2020-03-23	Rio de Janeiro	Sudeste	Confirmados	233
+2020-03-23	Rio de Janeiro	Sudeste	Mortes	4
+2020-03-23	Rio Grande do Norte	Nordeste	Suspeitos	282
+2020-03-23	Rio Grande do Norte	Nordeste	Descartados	44
+2020-03-23	Rio Grande do Norte	Nordeste	Confirmados	13
+2020-03-23	Rio Grande do Norte	Nordeste	Mortes	0
+2020-03-23	Rio Grande do Sul	Sul	Suspeitos	132
+2020-03-23	Rio Grande do Sul	Sul	Descartados	655
+2020-03-23	Rio Grande do Sul	Sul	Confirmados	96
+2020-03-23	Rio Grande do Sul	Sul	Mortes	0
+2020-03-23	Rondônia	Norte	Suspeitos	0
+2020-03-23	Rondônia	Norte	Descartados	0
+2020-03-23	Rondônia	Norte	Confirmados	3
+2020-03-23	Rondônia	Norte	Mortes	0
+2020-03-23	Roraima	Norte	Suspeitos	7
+2020-03-23	Roraima	Norte	Descartados	22
+2020-03-23	Roraima	Norte	Confirmados	2
+2020-03-23	Roraima	Norte	Mortes	0
+2020-03-23	Santa Catarina	Sul	Suspeitos	410
+2020-03-23	Santa Catarina	Sul	Descartados	0
+2020-03-23	Santa Catarina	Sul	Confirmados	68
+2020-03-23	Santa Catarina	Sul	Mortes	0
+2020-03-23	São Paulo	Sudeste	Suspeitos	0
+2020-03-23	São Paulo	Sudeste	Descartados	0
+2020-03-23	São Paulo	Sudeste	Confirmados	745
+2020-03-23	São Paulo	Sudeste	Mortes	30
+2020-03-23	Sergipe	Nordeste	Suspeitos	0
+2020-03-23	Sergipe	Nordeste	Descartados	0
+2020-03-23	Sergipe	Nordeste	Confirmados	10
+2020-03-23	Sergipe	Nordeste	Mortes	0
+2020-03-23	Tocantins	Norte	Suspeitos	0
+2020-03-23	Tocantins	Norte	Descartados	0
+2020-03-23	Tocantins	Norte	Confirmados	5
+2020-03-23	Tocantins	Norte	Mortes	0
