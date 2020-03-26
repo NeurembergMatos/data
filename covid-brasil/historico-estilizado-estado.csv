@@ -1,109 +1,109 @@
 estado	variavel	valor_7d	valor_3d	valor_1d	valor_atual
-Ceará	Suspeitos	211	0	0	0
-Minas Gerais	Descartados	99	0	0	0
-Paraná	Confirmados	6	43	70	70
+Ceará	Suspeitos	493	0	0	0
+Minas Gerais	Descartados	104	0	0	0
+Paraná	Confirmados	13	54	70	81
 Rio de Janeiro	Mortes	0	3	6	6
-Rio Grande do Sul	Suspeitos	300	295	204	204
-Santa Catarina	Descartados	55	0	0	0
-São Paulo	Confirmados	164	459	810	810
+Rio Grande do Sul	Suspeitos	416	0	204	0
+Santa Catarina	Descartados	47	0	0	0
+São Paulo	Confirmados	240	631	810	862
 Distrito Federal	Mortes	0	0	0	0
-Bahia	Suspeitos	375	1068	725	725
-Espírito Santo	Descartados	21	153	0	0
-Paraíba	Confirmados	0	2	3	3
-Pernambuco	Mortes	0	0	0	0
-Alagoas	Suspeitos	34	59	0	0
-Goiás	Descartados	54	98	170	170
-Mato Grosso do Sul	Confirmados	4	16	24	24
+Bahia	Suspeitos	573	601	725	0
+Espírito Santo	Descartados	21	252	0	0
+Paraíba	Confirmados	0	1	3	3
+Pernambuco	Mortes	0	0	0	1
+Alagoas	Suspeitos	43	89	0	0
+Goiás	Descartados	55	170	170	0
+Mato Grosso do Sul	Confirmados	7	21	24	24
 Rio Grande do Norte	Mortes	0	0	0	0
-Amazonas	Suspeitos	7	23	0	0
-Maranhão	Descartados	8	135	0	0
-Mato Grosso	Confirmados	0	2	7	7
+Amazonas	Suspeitos	18	0	0	0
+Maranhão	Descartados	13	136	0	0
+Mato Grosso	Confirmados	0	2	7	8
 Pará	Mortes	0	0	0	0
-Piauí	Suspeitos	14	129	0	0
-Rondônia	Descartados	3	9	0	0
-Sergipe	Confirmados	4	10	15	15
+Piauí	Suspeitos	12	117	0	0
+Rondônia	Descartados	2	30	0	0
+Sergipe	Confirmados	5	10	15	16
 Acre	Mortes	0	0	0	0
-Tocantins	Suspeitos	11	79	0	0
-Amapá	Descartados	0	59	70	70
-Roraima	Confirmados	0	2	2	2
+Tocantins	Suspeitos	13	0	0	0
+Amapá	Descartados	0	49	70	0
+Roraima	Confirmados	0	2	2	8
 Ceará	Mortes	0	0	0	0
-Minas Gerais	Suspeitos	563	5862	11832	11832
-Paraná	Descartados	82	172	1844	1844
-Rio de Janeiro	Confirmados	33	119	305	305
-Rio Grande do Sul	Mortes	0	0	0	0
-Santa Catarina	Suspeitos	220	361	336	336
-São Paulo	Descartados	709	0	0	0
-Distrito Federal	Confirmados	22	108	161	161
+Minas Gerais	Suspeitos	925	7190	11832	0
+Paraná	Descartados	119	159	1844	0
+Rio de Janeiro	Confirmados	45	186	305	370
+Rio Grande do Sul	Mortes	0	0	0	1
+Santa Catarina	Suspeitos	346	0	336	0
+São Paulo	Descartados	596	0	0	0
+Distrito Federal	Confirmados	26	117	161	160
 Bahia	Mortes	0	0	0	0
-Espírito Santo	Suspeitos	69	486	0	0
-Paraíba	Descartados	15	40	80	80
-Pernambuco	Confirmados	16	28	42	42
+Espírito Santo	Suspeitos	71	696	0	0
+Paraíba	Descartados	11	40	80	0
+Pernambuco	Confirmados	16	37	42	46
 Alagoas	Mortes	0	0	0	0
-Goiás	Suspeitos	221	303	765	765
-Mato Grosso do Sul	Descartados	45	159	256	256
-Rio Grande do Norte	Confirmados	1	6	14	14
-Amazonas	Mortes	0	0	0	0
-Maranhão	Suspeitos	52	214	0	0
-Mato Grosso	Descartados	7	16	0	0
-Pará	Confirmados	0	2	5	5
+Goiás	Suspeitos	353	765	765	0
+Mato Grosso do Sul	Descartados	26	164	256	0
+Rio Grande do Norte	Confirmados	1	9	14	14
+Amazonas	Mortes	0	0	0	1
+Maranhão	Suspeitos	125	280	0	0
+Mato Grosso	Descartados	8	0	0	0
+Pará	Confirmados	0	4	5	7
 Piauí	Mortes	0	0	0	0
-Rondônia	Suspeitos	38	137	48	48
-Sergipe	Descartados	12	0	66	66
-Acre	Confirmados	0	11	21	21
+Rondônia	Suspeitos	61	163	48	0
+Sergipe	Descartados	11	0	66	0
+Acre	Confirmados	0	11	21	23
 Tocantins	Mortes	0	0	0	0
-Amapá	Suspeitos	6	55	84	84
-Roraima	Descartados	0	14	0	0
-Ceará	Confirmados	5	84	185	185
+Amapá	Suspeitos	15	84	84	0
+Roraima	Descartados	0	0	0	0
+Ceará	Confirmados	9	125	185	200
 Minas Gerais	Mortes	0	0	0	0
-Paraná	Suspeitos	240	273	197	197
-Rio de Janeiro	Descartados	194	0	0	0
-Rio Grande do Sul	Confirmados	10	61	112	112
+Paraná	Suspeitos	400	1354	197	0
+Rio de Janeiro	Descartados	148	0	0	0
+Rio Grande do Sul	Confirmados	19	72	112	123
 Santa Catarina	Mortes	0	0	0	0
-São Paulo	Suspeitos	5047	0	0	0
-Distrito Federal	Descartados	96	1485	2423	2423
-Bahia	Confirmados	3	41	76	76
+São Paulo	Suspeitos	5334	0	0	0
+Distrito Federal	Descartados	107	1815	2423	0
+Bahia	Confirmados	3	49	76	84
 Espírito Santo	Mortes	0	0	0	0
-Paraíba	Suspeitos	48	73	0	0
-Pernambuco	Descartados	33	166	0	0
-Alagoas	Confirmados	1	7	7	7
+Paraíba	Suspeitos	85	187	0	0
+Pernambuco	Descartados	23	375	0	0
+Alagoas	Confirmados	1	7	7	11
 Goiás	Mortes	0	0	0	0
-Mato Grosso do Sul	Suspeitos	44	50	38	38
-Rio Grande do Norte	Descartados	21	0	0	0
-Amazonas	Confirmados	1	11	47	47
+Mato Grosso do Sul	Suspeitos	93	76	38	0
+Rio Grande do Norte	Descartados	22	0	0	0
+Amazonas	Confirmados	1	26	47	54
 Maranhão	Mortes	0	0	0	0
-Mato Grosso	Suspeitos	23	73	210	210
-Pará	Descartados	22	76	215	215
-Piauí	Confirmados	0	4	6	6
+Mato Grosso	Suspeitos	45	0	210	0
+Pará	Descartados	23	101	215	0
+Piauí	Confirmados	0	6	6	8
 Rondônia	Mortes	0	0	0	0
-Sergipe	Suspeitos	7	0	9	9
-Acre	Descartados	0	139	224	224
+Sergipe	Suspeitos	15	0	9	0
+Acre	Descartados	0	0	224	0
 Tocantins	Confirmados	0	2	7	7
 Amapá	Mortes	0	0	0	0
-Roraima	Suspeitos	5	9	0	0
-Ceará	Descartados	95	0	0	0
-Minas Gerais	Confirmados	7	55	130	130
+Roraima	Suspeitos	9	16	0	0
+Ceará	Descartados	89	0	0	0
+Minas Gerais	Confirmados	15	83	130	133
 Paraná	Mortes	0	0	0	0
-Rio de Janeiro	Suspeitos	859	0	0	0
-Rio Grande do Sul	Descartados	217	495	826	826
-Santa Catarina	Confirmados	7	51	108	108
-São Paulo	Mortes	1	15	40	40
-Distrito Federal	Suspeitos	253	2717	3666	3666
-Bahia	Descartados	59	535	0	0
-Espírito Santo	Confirmados	1	26	33	40
+Rio de Janeiro	Suspeitos	1254	0	0	0
+Rio Grande do Sul	Descartados	330	0	826	0
+Santa Catarina	Confirmados	10	57	108	109
+São Paulo	Mortes	4	22	40	48
+Distrito Federal	Suspeitos	327	3301	3666	0
+Bahia	Descartados	36	0	0	0
+Espírito Santo	Confirmados	9	26	40	39
 Paraíba	Mortes	0	0	0	0
-Pernambuco	Suspeitos	71	311	0	0
-Alagoas	Descartados	20	47	0	0
-Goiás	Confirmados	6	18	27	27
+Pernambuco	Suspeitos	89	310	0	0
+Alagoas	Descartados	22	63	0	0
+Goiás	Confirmados	8	21	27	29
 Mato Grosso do Sul	Mortes	0	0	0	0
-Rio Grande do Norte	Suspeitos	72	131	452	452
-Amazonas	Descartados	19	66	0	0
-Maranhão	Confirmados	0	1	8	8
+Rio Grande do Norte	Suspeitos	108	0	452	0
+Amazonas	Descartados	26	0	0	0
+Maranhão	Confirmados	0	2	8	8
 Mato Grosso	Mortes	0	0	0	0
-Pará	Suspeitos	21	234	168	168
-Piauí	Descartados	4	62	0	0
-Rondônia	Confirmados	0	3	3	3
+Pará	Suspeitos	43	207	168	0
+Piauí	Descartados	2	92	0	0
+Rondônia	Confirmados	0	3	3	5
 Sergipe	Mortes	0	0	0	0
-Acre	Suspeitos	8	5	248	248
-Tocantins	Descartados	0	17	0	0
+Acre	Suspeitos	12	0	248	0
+Tocantins	Descartados	0	0	0	0
 Amapá	Confirmados	0	1	1	1
 Roraima	Mortes	0	0	0	0
