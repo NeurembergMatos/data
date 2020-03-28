@@ -1,109 +1,109 @@
 estado	regiao	variavel	var_7d	var_3d	var_1d	valor_atual
 Ceará	Nordeste	Suspeitos	-1			0
-Minas Gerais	Sudeste	Descartados	-1			0
-Paraná	Sul	Confirmados	3,43478260869565	0,7	0,259259259259259	102
-Rio de Janeiro	Sudeste	Mortes	3,5	1,25	0,5	9
+Minas Gerais	Sudeste	Descartados				0
+Paraná	Sul	Confirmados	2,30555555555556	0,7	0,166666666666667	119
+Rio de Janeiro	Sudeste	Mortes	2,33333333333333	0,666666666666667	0,111111111111111	10
 Rio Grande do Sul	Sul	Suspeitos	-1	-1		0
-Santa Catarina	Sul	Descartados	-1			0
-São Paulo	Sudeste	Confirmados	2,67832167832168	0,412080536912752	0,220417633410673	1052
+Santa Catarina	Sul	Descartados				0
+São Paulo	Sudeste	Confirmados	2,54492753623188	0,509876543209877	0,16254752851711	1223
 Distrito Federal	Centro-Oeste	Mortes				0
-Bahia	Nordeste	Suspeitos	-1			0
-Espírito Santo	Sudeste	Descartados	-1	-1		0
-Paraíba	Nordeste	Confirmados	4	1,5	0,666666666666667	5
-Pernambuco	Nordeste	Mortes			2	3
-Alagoas	Nordeste	Suspeitos	-1	-1		0
+Bahia	Nordeste	Suspeitos	-1	-1		0
+Espírito Santo	Sudeste	Descartados	-1			0
+Paraíba	Nordeste	Confirmados	8	2	0,8	9
+Pernambuco	Nordeste	Mortes			0,333333333333333	4
+Alagoas	Nordeste	Suspeitos	-1			0
 Goiás	Centro-Oeste	Descartados	-1	-1		0
-Mato Grosso do Sul	Centro-Oeste	Confirmados	1,77777777777778	0,19047619047619	0,0416666666666667	25
+Mato Grosso do Sul	Centro-Oeste	Confirmados	1,33333333333333	0,166666666666667	0,12	28
 Rio Grande do Norte	Nordeste	Mortes				0
-Amazonas	Norte	Suspeitos	-1	-1		0
-Maranhão	Nordeste	Descartados	-1	-1		0
-Mato Grosso	Centro-Oeste	Confirmados		0,833333333333333	0,375	11
+Amazonas	Norte	Suspeitos	-1			0
+Maranhão	Nordeste	Descartados	-1			0
+Mato Grosso	Centro-Oeste	Confirmados	10	0,571428571428571	0	11
 Pará	Norte	Mortes				0
-Piauí	Nordeste	Suspeitos	-1	-1		0
+Piauí	Nordeste	Suspeitos	-1			0
 Rondônia	Norte	Descartados	-1			0
-Sergipe	Nordeste	Confirmados	1,66666666666667	0,6	0	16
+Sergipe	Nordeste	Confirmados	1,28571428571429	0,0666666666666667	0	16
 Acre	Norte	Mortes				0
 Tocantins	Norte	Suspeitos	-1			0
-Amapá	Norte	Descartados		-1		0
-Roraima	Norte	Confirmados		3	0	8
-Ceará	Nordeste	Mortes				3
+Amapá	Norte	Descartados	-1	-1		0
+Roraima	Norte	Confirmados		4	0,25	10
+Ceará	Nordeste	Mortes			0	3
 Minas Gerais	Sudeste	Suspeitos	-1	-1		0
 Paraná	Sul	Descartados	-1	-1		0
-Rio de Janeiro	Sudeste	Confirmados	5,37878787878788	0,8068669527897	0,137837837837838	421
-Rio Grande do Sul	Sul	Mortes			0	1
+Rio de Janeiro	Sudeste	Confirmados	3,14285714285714	0,616393442622951	0,171021377672209	493
+Rio Grande do Sul	Sul	Mortes			1	2
 Santa Catarina	Sul	Suspeitos	-1	-1		0
 São Paulo	Sudeste	Descartados	-1			0
-Distrito Federal	Centro-Oeste	Confirmados	1,38095238095238	0,481481481481481	0,25	200
+Distrito Federal	Centro-Oeste	Confirmados	1,64367816091954	0,428571428571429	0,15	230
 Bahia	Nordeste	Mortes				0
-Espírito Santo	Sudeste	Suspeitos	-1	-1		0
+Espírito Santo	Sudeste	Suspeitos	-1			0
 Paraíba	Nordeste	Descartados	-1	-1		0
-Pernambuco	Nordeste	Confirmados	0,714285714285714	0,142857142857143	0,0434782608695652	48
+Pernambuco	Nordeste	Confirmados	0,806451612903226	0,333333333333333	0,166666666666667	56
 Alagoas	Nordeste	Mortes				0
 Goiás	Centro-Oeste	Suspeitos	-1	-1		0
 Mato Grosso do Sul	Centro-Oeste	Descartados	-1	-1		0
-Rio Grande do Norte	Nordeste	Confirmados	18	0,461538461538462	0,357142857142857	19
+Rio Grande do Norte	Nordeste	Confirmados	3,66666666666667	1	0,473684210526316	28
 Amazonas	Norte	Mortes			0	1
-Maranhão	Nordeste	Suspeitos	-1	-1		0
-Mato Grosso	Centro-Oeste	Descartados	-1	-1		0
-Pará	Norte	Confirmados		1,6	0,857142857142857	13
+Maranhão	Nordeste	Suspeitos	-1			0
+Mato Grosso	Centro-Oeste	Descartados	-1			0
+Pará	Norte	Confirmados	5,5	1,6	0	13
 Piauí	Nordeste	Mortes				0
-Rondônia	Norte	Suspeitos	-1			0
-Sergipe	Nordeste	Descartados	-1			0
-Acre	Norte	Confirmados	5	0,411764705882353	0,0434782608695652	24
+Rondônia	Norte	Suspeitos	-1	-1		0
+Sergipe	Nordeste	Descartados	-1	-1		0
+Acre	Norte	Confirmados	2,57142857142857	0,19047619047619	0,0416666666666667	25
 Tocantins	Norte	Mortes				0
 Amapá	Norte	Suspeitos	-1	-1		0
-Roraima	Norte	Descartados	-1	-1		0
-Ceará	Nordeste	Confirmados	8,79166666666667	0,432926829268293	0,175	235
+Roraima	Norte	Descartados	-1			0
+Ceará	Nordeste	Confirmados	3,14705882352941	0,524324324324324	0,2	282
 Minas Gerais	Sudeste	Mortes				0
 Paraná	Sul	Suspeitos	-1	-1		0
-Rio de Janeiro	Sudeste	Descartados	-1			0
-Rio Grande do Sul	Sul	Confirmados	4,41935483870968	0,75	0,365853658536585	168
-Santa Catarina	Sul	Mortes				1
+Rio de Janeiro	Sudeste	Descartados				0
+Rio Grande do Sul	Sul	Confirmados	3,53488372093023	0,741071428571429	0,160714285714286	195
+Santa Catarina	Sul	Mortes			0	1
 São Paulo	Sudeste	Suspeitos	-1			0
-Distrito Federal	Centro-Oeste	Descartados	-1	-1		0
-Bahia	Nordeste	Confirmados	2,46666666666667	0,650793650793651	0,238095238095238	104
+Distrito Federal	Centro-Oeste	Descartados		-1		0
+Bahia	Nordeste	Confirmados	2,48484848484849	0,513157894736842	0,105769230769231	115
 Espírito Santo	Sudeste	Mortes				0
-Paraíba	Nordeste	Suspeitos	-1	-1		0
+Paraíba	Nordeste	Suspeitos	-1			0
 Pernambuco	Nordeste	Descartados	-1			0
-Alagoas	Nordeste	Confirmados	1,75	0,375	0	11
-Goiás	Centro-Oeste	Mortes				1
+Alagoas	Nordeste	Confirmados	0,833333333333333	0,571428571428571	0	11
+Goiás	Centro-Oeste	Mortes			0	1
 Mato Grosso do Sul	Centro-Oeste	Suspeitos	-1	-1		0
-Rio Grande do Norte	Nordeste	Descartados	-1	-1		0
-Amazonas	Norte	Confirmados	21,3333333333333	1,09375	0,240740740740741	67
+Rio Grande do Norte	Nordeste	Descartados				0
+Amazonas	Norte	Confirmados	10,5714285714286	0,723404255319149	0,208955223880597	81
 Maranhão	Nordeste	Mortes				0
 Mato Grosso	Centro-Oeste	Suspeitos	-1	-1		0
 Pará	Norte	Descartados	-1	-1		0
-Piauí	Nordeste	Confirmados	2	0,5	0,125	9
+Piauí	Nordeste	Confirmados	1,25	0,5	0	9
 Rondônia	Norte	Mortes				0
-Sergipe	Nordeste	Suspeitos	-1			0
-Acre	Norte	Descartados		-1		0
-Tocantins	Norte	Confirmados	6	0,4	0	7
+Sergipe	Nordeste	Suspeitos	-1	-1		0
+Acre	Norte	Descartados	-1	-1		0
+Tocantins	Norte	Confirmados	7	0,142857142857143	0,142857142857143	8
 Amapá	Norte	Mortes				0
-Roraima	Norte	Suspeitos	-1	-1		0
+Roraima	Norte	Suspeitos	-1			0
 Ceará	Nordeste	Descartados	-1			0
-Minas Gerais	Sudeste	Confirmados	4,27586206896552	0,1953125	0,150375939849624	153
-Paraná	Sul	Mortes				0
-Rio de Janeiro	Sudeste	Suspeitos	-1			0
+Minas Gerais	Sudeste	Confirmados	3,97368421052632	0,453846153846154	0,235294117647059	189
+Paraná	Sul	Mortes				2
+Rio de Janeiro	Sudeste	Suspeitos				0
 Rio Grande do Sul	Sul	Descartados	-1	-1		0
-Santa Catarina	Sul	Confirmados	4,80952380952381	0,418604651162791	0,119266055045872	122
-São Paulo	Sudeste	Mortes	10,6	0,933333333333333	0,208333333333333	58
-Distrito Federal	Centro-Oeste	Suspeitos	-1	-1		0
-Bahia	Nordeste	Descartados	-1	-1		0
-Espírito Santo	Sudeste	Confirmados	2	0,344827586206897	0	39
+Santa Catarina	Sul	Confirmados	2,725	0,37962962962963	0,221311475409836	149
+São Paulo	Sudeste	Mortes	6,55555555555556	0,7	0,172413793103448	68
+Distrito Federal	Centro-Oeste	Suspeitos		-1		0
+Bahia	Nordeste	Descartados	-1			0
+Espírito Santo	Sudeste	Confirmados	1,9375	0,175	0,205128205128205	47
 Paraíba	Nordeste	Mortes				0
 Pernambuco	Nordeste	Suspeitos	-1			0
-Alagoas	Nordeste	Descartados	-1	-1		0
-Goiás	Centro-Oeste	Confirmados	1,6	0,695652173913044	0,344827586206897	39
+Alagoas	Nordeste	Descartados	-1			0
+Goiás	Centro-Oeste	Confirmados	1,72222222222222	0,814814814814815	0,256410256410256	49
 Mato Grosso do Sul	Centro-Oeste	Mortes				0
 Rio Grande do Norte	Nordeste	Suspeitos	-1	-1		0
 Amazonas	Norte	Descartados	-1			0
-Maranhão	Nordeste	Confirmados		4	0,25	10
+Maranhão	Nordeste	Confirmados	12	0,625	0,3	13
 Mato Grosso	Centro-Oeste	Mortes				0
 Pará	Norte	Suspeitos	-1	-1		0
-Piauí	Nordeste	Descartados	-1	-1		0
-Rondônia	Norte	Confirmados		0,666666666666667	0	5
+Piauí	Nordeste	Descartados	-1			0
+Rondônia	Norte	Confirmados	5	1	0,2	6
 Sergipe	Nordeste	Mortes				0
 Acre	Norte	Suspeitos	-1	-1		0
-Tocantins	Norte	Descartados				0
-Amapá	Norte	Confirmados		1	1	2
+Tocantins	Norte	Descartados	-1			0
+Amapá	Norte	Confirmados	1	1	0	2
 Roraima	Norte	Mortes				0
